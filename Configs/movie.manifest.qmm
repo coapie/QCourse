@@ -1,0 +1,106 @@
+{
+	"title":"丝路音画之影音混搭",
+
+	"movies" : 
+	[
+		{
+			"index":0,
+			"movie":"可爱的野马.mp4",
+			"image":"可爱的野马.mp4.png",
+			"selected":-1,
+			"right":2
+		},
+
+		{
+			"index":1,
+			"movie":"枯海残丘.mp4",
+			"image":"枯海残丘.mp4.png",
+			"selected":-1,
+			"right":4
+		},
+
+		{
+			"index":2,
+			"movie":"世纪灵光.mp4",
+			"image":"世纪灵光.mp4.png",
+			"selected":-1,
+			"right":5
+		},
+
+		{
+			"index":3,
+			"movie":"波斯商队.mp4",
+			"image":"波斯商队.mp4.png",
+			"selected":-1,
+			"right":0
+		},
+
+		{
+			"index":4,
+			"movie":"先民的足迹.mp4",
+			"image":"先民的足迹.mp4.png",
+			"selected":-1,
+			"right":6
+		},
+
+		{
+			"index":5,
+			"movie":"古阵营垒.mp4",
+			"image":"古阵营垒.mp4.png",
+			"selected":-1,
+			"right":1
+		},
+
+		{
+			"index":6,
+			"movie":"走近雅丹.mp4",
+			"image":"走近雅丹.mp4.png",
+			"selected":-1,
+			"right":7
+		}
+	],
+
+	"musics" :
+	[
+		{ 
+			"index":0,
+			"image":"波斯商队.jpg",
+			"music":"波斯商队.mp3"
+		},
+		{ 
+			"index":1,
+			"image":"古阵营垒.jpg",
+			"music":"古阵营垒.mp3"
+		},
+		{ 
+			"index":2,
+			"image":"可爱的野马.jpg",
+			"music":"可爱的野马.mp3"
+		},
+		{ 
+			"index":3,
+			"image":"孔雀岩的遐想.jpg",
+			"music":"孔雀岩的遐想.mp3"
+		},
+		{ 
+			"index":4,
+			"image":"枯海残丘.jpg",
+			"music":"枯海残丘.mp3"
+		},
+		{ 
+			"index":5,
+			"image":"世纪灵光.jpg",
+			"music":"世纪灵光.mp3"
+		},
+		{ 
+			"index":6,
+			"image":"先民的足迹.jpg",
+			"music":"先民的足迹.mp3"
+		},
+		{ 
+			"index":7,
+			"image":"走近雅丹.jpg",
+			"music":"走近雅丹.mp3"
+		}	
+	]
+}

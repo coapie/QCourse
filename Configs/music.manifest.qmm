@@ -1,0 +1,88 @@
+{
+	"title":"丝路音画之音画匹配",
+
+	"music":"在中亚细亚草原上.mp3",
+
+	"sections":
+	[
+		{ 
+			"idx":0,
+			"start":1,		
+			"end":6, 
+			"score":12.5,
+			"images":["空旷的草原.jpg","汹涌的海浪.jpg","拥挤的人潮.jpg"],
+			"prefer":"空旷的草原.jpg",
+			"right":0
+		},
+
+		{ 
+			"idx":1,	
+			"start":6,		
+			"end":24,
+			"score":12.5,
+			"images":["多彩的舞姿.jpg","绵延的军队.jpg","热闹的晚会.jpg"],
+			"prefer":"绵延的军队.jpg",
+			"right":1
+		},
+
+		{ 
+			"idx":2,	
+			"start":24,		
+			"end":40,
+			"score":12.5,
+			"images":["静谧的夜晚.jpg","亲切的会晤.jpg","悠扬的回声.jpg"],
+			"prefer":"悠扬的回声.jpg", 
+			"right":2 
+		},
+
+		{ 
+			"idx":3,	
+			"start":40,		
+			"end":60,
+			"score":12.5,
+			"images":["嘚嘚的蹄声.png","飞速的轮滑.jpg","孤独的背影.png"],
+			"prefer":"嘚嘚的蹄声.jpg",  
+			"right":0 
+		},
+
+		{ 
+			"idx":4,	
+			"start":60,		
+			"end":111,
+			"score":12.5,
+			"images":["儿时的回忆.jpg","飞扬的呐喊.jpg","整齐的商队.jpg"],
+			"prefer":"整齐的商队.jpg" , 
+			"right":2
+		},
+
+		{ 
+			"idx":5,	
+			"start":176,		
+			"end":218,
+			"score":12.5,
+			"images":["大红的牡丹.jpg","孤独的哨兵.png","圆满的相会.jpg"],
+			"prefer":"圆满的相会.jpg", 
+			"right":2
+		},
+
+		{ 
+			"idx":6,	
+			"start":293,		
+			"end":324,
+			"score":12.5,
+			"images":["残酷的战争.jpg","和谐的共处.jpg","平静的湖面.jpg"],
+			"prefer":"和谐的共处.jpg" , 
+			"right":1
+		},
+
+		{ 
+			"idx":7,	
+			"start":419,		
+			"end":443,
+			"score":12.5,
+			"images":["高超的武术.jpg","青春的写照.jpg","遥远的天际.jpg"],
+			"prefer":"遥远的天际.jpg", 
+			"right":2 
+		}
+	]
+}
