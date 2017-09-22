@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Components/SiderBar.qml</file>
+        <file>Components/SubmitPage.qml</file>
+        <file>Components/MoviePage.qml</file>
+        <file>Components/MusicPage.qml</file>
+        <file>images/00.jpg</file>
+        <file>images/01.jpg</file>
+        <file>images/10.jpg</file>
+        <file>images/11.jpg</file>
+        <file>images/20.jpg</file>
+        <file>images/21.jpg</file>
+        <file>images/30.jpg</file>
+        <file>images/31.jpg</file>
+        <file>Components/FramedBtutton.qml</file>
+        <file>Components/TitleImage.qml</file>
+        <file>Components/MusicMatcherDialog.qml</file>
+        <file>images/music.png</file>
+        <file>images/checked.png</file>
+        <file>images/unchecked.png</file>
+        <file>Components/MusicMatcher.qml</file>
+        <file>Components/BoxSelect.qml</file>
+        <file>Components/CheckButton.qml</file>
+        <file>images/play.png</file>
+        <file>Components/MoviePlayer.qml</file>
+        <file>images/submit.png</file>
+        <file>Components/PageTitleBar.qml</file>
+        <file>Components/SavePage.qml</file>
+        <file>Components/SubmitDialog.qml</file>
+    </qresource>
+</RCC>
