@@ -9,6 +9,11 @@ Button {
     property int index
     property alias bttext:label.text
 
+    property string colorChecked:"lightgreen"
+    property string colorUnchecked:"darkgray"
+    property string colorBgChecked:"white"
+    property string colorBgUnchecked:"lightgray"
+
     Label {
         id:label
         anchors.fill:  parent
@@ -20,20 +25,17 @@ Button {
 
     background:Rectangle {
         anchors.fill: parent
-
-        color:checked ? "lightgreen" : "darkgray"
+        id:boardRect
+        color:checked ? colorChecked : colorUnchecked
 
         Rectangle{
+            id:bgRect
             x:2;y:2
             width: parent.width - 4
             height: parent.height - 4
 
-            color:checked ? "white" : "lightgray"
+            color:checked ? colorBgChecked : colorBgUnchecked
         }
-    }
-
-    onClicked: {
-
     }
 }
 

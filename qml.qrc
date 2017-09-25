@@ -29,5 +29,6 @@
         <file>Components/PageTitleBar.qml</file>
         <file>Components/SavePage.qml</file>
         <file>Components/SubmitDialog.qml</file>
+        <file>qcourse.ico</file>
     </qresource>
 </RCC>
